@@ -1,0 +1,64 @@
+#section1 {
+    width: 100%;
+    height: 90vh;
+    background: red;
+    padding-top: 4em;
+}
+
+#section1 > #header-container {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    height: 80vh;
+    width: 100%;
+    margin: 0 auto;
+    z-index: 1;
+
+}
+
+#section1 > #header-container > #header {
+        color: #fff;
+        width: 100%;
+        margin-left: 7rem;
+}
+
+
+#section1 > #header-container > #header > h1 {
+    font-size: 4.5rem;
+    color: #000;
+    background-size: 100%;
+    text-transform: uppercase;
+    text-align: left;
+   
+}
+
+#section1 > #header-container > #header > h2 {
+    font-size: 4.5rem;
+    margin: 10px auto;
+    color: #000;
+    background-size: 100%;
+    text-transform: uppercase;
+}
+
+#section1 > #header-container > #header > p {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+#section1 > #item-container > :not(:last-child) {
+    margin-right: 5%;
+}
+
+
+#section1 > #header-container > #main-img-container {
+    text-align: center;
+}
+
+#section1 > #header-container > #main-img-container > #main-img {
+    height: 80%;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px #363636;
+}

@@ -1,0 +1,42 @@
+#navbar {
+    position: fixed;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 4em;
+
+    background: #6b0b74;
+}
+
+#navbar > #button-container {
+    position: relative;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: 40%;
+
+    display: flex;
+    flex-direction: ltr;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+#navbar > #button-container > button {
+    position: relative;
+
+    font-size: 1.2em;
+
+    color: #ffffff;
+
+    background: transparent;
+    outline: none;
+    border: none;
+}
+#navbar > #button-container > button:hover {
+    cursor: pointer;
+}
