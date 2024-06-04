@@ -12,4 +12,4 @@
 
 # Credits
 - Aqmer aamir
-- [Maksym Melnyk[(https://github.com/notmax6677)
+- [notmax6677](https://github.com/notmax6677)
