@@ -1,5 +1,5 @@
 # iCodeJR-template
- Website template made by me and my friend for a coding contest
+ Website template made for a coding contest
 
 # Software
 - Uses solidjs.
@@ -11,5 +11,5 @@
 - run `npm run dev`
 
 # Credits
-- Muhammad Aqmer aamir
-- Maksym Melnyk
+- Aqmer aamir
+- [Maksym Melnyk[(https://github.com/notmax6677)
