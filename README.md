@@ -2,7 +2,7 @@
  Website template made for a coding contest
 
 # Software
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_SolidJS.svg/2560px-Logo_SolidJS.svg.png" alt="SolidJS Logo" style="width:80px;">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_SolidJS.svg/2560px-Logo_SolidJS.svg.png" alt="SolidJS Logo" style="width:100px;">
 
 
 # Run
