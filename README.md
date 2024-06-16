@@ -2,7 +2,7 @@
  Website template made for a coding contest
 
 # Software
-- SolidJS ![SolidJS Logo]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJandyTWI0rmZRTJjK2Qi3j_LVHbAO1phuTg&s)
+- SolidJS ![SolidJS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Logo_SolidJS.svg/2560px-Logo_SolidJS.svg.png)
 
 # Run
 - Download all the code as a ZIP file
