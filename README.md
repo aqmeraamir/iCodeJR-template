@@ -2,7 +2,7 @@
  Website template made for a coding contest
 
 # Software
-- Uses solidjs.
+- Solidjs
 
 # Run
 - Download all the code as a ZIP file
